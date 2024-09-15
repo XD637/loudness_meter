@@ -1,8 +1,0 @@
-LUFS: -12.13
-
-Spotify - Loud Mode: 0.00 dB
-Spotify - Normal Mode (Preferred): -1.87 dB
-Spotify - Quiet Mode: -6.87 dB
-Apple Music: -3.87 dB
-YouTube Music: -1.87 dB
-Amazon Music: -1.87 dB
